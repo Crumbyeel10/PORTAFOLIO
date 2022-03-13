@@ -470,3 +470,39 @@ body{
         color: var(--color-border-icons);
     }
   }
+
+
+  @media (max-width: 718px){
+    .section-present {
+        display: flex;
+    } 
+   .section-present h2{
+       font-size: 43px;
+   } 
+   .section-present h1{
+    font-size: 36px;
+    } 
+
+.container-foot{
+    font-size: 22px;
+} 
+  }
+
+
+
+
+  @media (max-width: 600px){
+    .section-present {
+        display: flex;
+        padding: 66px;
+    } 
+   .section-present h2{
+       font-size: 31px;
+   } 
+   .section-present h1{
+    font-size: 25px;
+    }
+    .container-foot{
+        font-size: 20px;
+    } 
+  }
