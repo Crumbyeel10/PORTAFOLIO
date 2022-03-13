@@ -498,7 +498,7 @@ body{
   @media (max-width: 600px){
     .section-present {
         display: flex;
-        padding: 66px;
+        padding: 43px;
     } 
     .content-hero h1{
         font-size: 34px;
