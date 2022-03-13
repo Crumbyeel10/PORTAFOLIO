@@ -475,7 +475,11 @@ body{
   @media (max-width: 718px){
     .section-present {
         display: flex;
+        padding: 145px;
     } 
+    .content-hero h1{
+        font-size: 39px;
+    }
    .section-present h2{
        font-size: 43px;
    } 
@@ -496,6 +500,9 @@ body{
         display: flex;
         padding: 66px;
     } 
+    .content-hero h1{
+        font-size: 34px;
+    }
    .section-present h2{
        font-size: 31px;
    } 
@@ -503,6 +510,6 @@ body{
     font-size: 25px;
     }
     .container-foot{
-        font-size: 20px;
+        font-size: 16px;
     } 
   }
