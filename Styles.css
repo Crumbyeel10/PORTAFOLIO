@@ -333,9 +333,11 @@ body{
 }
 .message-contact  input {
     color: var(--color-text);
+    padding: 20px;
 }
 .message-contact textarea{
     color: var(--color-text);
+    padding: 20px;
 }
 .button-mesage{
     width: 141px;
