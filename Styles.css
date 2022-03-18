@@ -331,7 +331,12 @@ body{
     height: auto;
     object-fit: cover;
 }
-
+.message-contact  input {
+    color: var(--color-text);
+}
+.message-contact textarea{
+    color: var(--color-text);
+}
 .button-mesage{
     width: 141px;
     height: 37px;
