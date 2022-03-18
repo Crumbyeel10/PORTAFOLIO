@@ -170,6 +170,10 @@ body{
     
 
 }
+.button-hero > *{
+    text-decoration: none;
+    color: var(--color-text);
+}
 
 .hero-buttons {
     display: flex;
@@ -190,17 +194,19 @@ body{
 .container-education{
     
     background-image: url(./img/literatura.jpg);
-    background-color: var(--color-fondo);
+    background-color: var(--color-fondo-);
     background-attachment: fixed;
     display: flex;
     width: 100%;
     height: auto;
     
     
+    
 }
 
 .section-education{
     display: flex;
+    background-color: var(--color-fondo-);
     flex-direction: column;
     gap: 10px;
     padding: 60px;
